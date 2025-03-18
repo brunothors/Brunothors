@@ -1,5 +1,14 @@
 ## Hi there 👋
 
+#### My name is Bruno Thorstensen
+
+---
+
+I'm currently an aspiring software developer studying at 42 school.
+I love challenges and learning things by myself as well as being taught by my peers.
+My intent is to become a great professional someday, and work on problems that will make a difference on people's everyday life.
+On this github you will find some of the projects I made in 42, hope you find something interesting.
+
 <!--
 **brunothors/Brunothors** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
