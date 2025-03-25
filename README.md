@@ -12,6 +12,8 @@ My intent is to become a great professional someday, and work on problems that w
 
 On this github you will find some of the projects I made in 42, hope you find something interesting.
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brunothors&layout=compact)
+
 <!--
 **brunothors/Brunothors** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
