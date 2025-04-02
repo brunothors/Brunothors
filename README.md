@@ -8,7 +8,7 @@ I'm currently an aspiring software developer studying at 42 school.
 
 I love challenges and learning things by myself as well as being taught by my peers.
 
-My intent is to become a great professional someday, and work on problems that will make a difference on people's everyday life.
+My intent is to become a great professional someday, and work on problems that will make a difference on people's everyday lives.
 
 On this github you will find some of the projects I made in 42, hope you find something interesting.
 
